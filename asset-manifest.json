@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/https//maxiturchet.github.io/youtube_clone/static/css/main.7064deb2.css",
-    "main.js": "/https//maxiturchet.github.io/youtube_clone/static/js/main.6807886a.js",
-    "index.html": "/https//maxiturchet.github.io/youtube_clone/index.html",
-    "main.7064deb2.css.map": "/https//maxiturchet.github.io/youtube_clone/static/css/main.7064deb2.css.map",
-    "main.6807886a.js.map": "/https//maxiturchet.github.io/youtube_clone/static/js/main.6807886a.js.map"
+    "main.css": "/youtube_clone/static/css/main.7064deb2.css",
+    "main.js": "/youtube_clone/static/js/main.6807886a.js",
+    "index.html": "/youtube_clone/index.html",
+    "main.7064deb2.css.map": "/youtube_clone/static/css/main.7064deb2.css.map",
+    "main.6807886a.js.map": "/youtube_clone/static/js/main.6807886a.js.map"
   },
   "entrypoints": [
     "static/css/main.7064deb2.css",
