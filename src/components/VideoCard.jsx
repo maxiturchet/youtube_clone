@@ -16,7 +16,6 @@ const VideoCard = ({
   },
 }) => {
   console.log(videoId, snippet);
-
   return (
     <Card
       sx={{
@@ -29,7 +28,7 @@ const VideoCard = ({
         <CardMedia
           image={snippet?.thumbnails?.high?.url}
           alt={snippet?.title}
-          sx={{ width: 358, height: 180 }}
+          sx={{ width: 320, height: 180 }}
         />
       </Link>
       <CardContent
